@@ -1,2 +1,3 @@
 # volga
-Ez egy gyakorló repo lesz de jó
+Ez egy gyakorló repo 
+Hellótook szarosok
